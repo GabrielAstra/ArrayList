@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/VSProjects/Arrays/bin/Debug/net7.0/Arrays
+/home/gabriel/Desktop/VSProjects/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/home/gabriel/Desktop/VSProjects/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/Arrays/bin/Debug/net7.0/Arrays.dll
+/home/gabriel/Desktop/VSProjects/Arrays/bin/Debug/net7.0/Arrays.pdb
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/Arrays.dll
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/Arrays.pdb
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/Arrays/obj/Debug/net7.0/ref/Arrays.dll
